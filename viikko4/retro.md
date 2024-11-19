@@ -1,0 +1,6 @@
+Kahdesta mainitusta tavasta Start, Stop, Continue, More of, Less of Wheel on noin 10-25 minuuttia kestävä tapahtuma, jossa tiimi voi antaa palautetta eri toimintamalleistaan.
+Tiimiläiset voivat siis Kertoa mitä he haluaisivat alkaa tekemään, minkä tekeminen pitäisi lopettaa tai mitä voi jatkaa samalla tavalla. Samassa tilanteessa voi myös antaa palautetta siitä, 
+että mitä pitäisi lisätä ja mitä vähentää. Glad, Sad, Mad puolestaan koskee asioita tai ongelmia, joita tiimiläiset kohtasivat sprintin aikana. Nämä eri ongelmat lajitellaan asioihin, mitkä tekivät tiimiläiset iloisiksi, surullisiksi tai vihaisiksi.
+Alussa kaikki kirjoittavat lyhyitä muistiinpanoja viime sprintistä, Tämän jälkeen kaikki saavat asettaa lappunsa jollekkin pinnalle, antaen lyhyen selityksen siitä, miksi kirjoittivat kyseisen lapun, tässä vaiheessa muut tiimiläiset eivät saa puuttua kertomiseen vaan mitään ideoita ei saa sulkea vielä pois.
+Vaikkakin Sad ja Mad ovat molemmat negatiivisia, Mad liittyy enemmän tiimin ulkopuolisiin asioihin ja tekijöihin, jotka silti vaikuttaa sprinttiin, esim parkkipaikan löytäminen aamulla. Tämän jälkeen laput ryhmitellään ja äänestetään, mistä halutaan puhua ensiksi.
+Tämän jälkeen Scrummaster, johtaa keskustelua aloittaen eniten ääniä saaneesta tilanteesta. Tätä jatketaan kunnes tapaaminen on kestänyt tunnin tai kaikki asiat on käsitelty.
